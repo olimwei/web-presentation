@@ -2,9 +2,9 @@
 layout: 
 ---
 
-example of blockquotes
+第五小节：缠论经典语句
 
-As Grace Hopper said:
-> I’ve always been more interested 
-> in the future than in the past.
+下面引用来自原文:
+> 任何走势 
+> 有人的地方
 
